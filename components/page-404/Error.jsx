@@ -9,7 +9,7 @@ function Error() {
       <div className="container">
         <div className="text-center">
           <h1>404</h1>
-          <p>The page you are looking for doesn't exist</p>
+          <p>The page you are looking for doesn&apos;t exist</p>
           <a
             href="/"
             className="butn butn-md butn-bg main-colorbg radius-30 mt-30"
